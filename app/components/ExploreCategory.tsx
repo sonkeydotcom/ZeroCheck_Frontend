@@ -1,4 +1,4 @@
-import Card from "@/app/components/dashboard/Card";
+import Card from "./dashboard/Card";
 import ExploreCategoryCard from "./ExploreCategoryCard";
 const exploreData = [
   {

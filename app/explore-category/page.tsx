@@ -1,4 +1,4 @@
-import ExploreCategory from "./components/ExploreCategory";
+import ExploreCategory from "../components/ExploreCategory";
 
 const page = () => {
   return (
