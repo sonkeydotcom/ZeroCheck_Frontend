@@ -67,7 +67,6 @@ const ExploreCategory = () => {
     <Card>
       <div className="py-4 px-6 space-y-4">
         <h3 className="text-xl text-black font-bold capitalize ">
-          {" "}
           Explore categories
         </h3>
         <div className="grid grid-cols-3 md:grid-cols-4 gap-4">
