@@ -62,7 +62,6 @@ const exploreData = [
     image: "/icons/technology_3715280.png",
   },
 ];
-
 const ExploreCategory = () => {
   return (
     <Card>
